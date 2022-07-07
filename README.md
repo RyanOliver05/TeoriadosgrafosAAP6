@@ -8,4 +8,4 @@ O problema é encontrar o número mínimo de elementos(dispositivos) que precisa
 Segue os links de todos os arquivos deste projeto:<br>
 [Documentação](https://docs.google.com/document/d/1KoyJk9nqz7b3PLBKJmSSTWrOmGkZ2H5TWSguRfIG1cQ/edit?usp=sharing)<br>
 [Pasta com o dataset](https://drive.google.com/drive/folders/1Va8x6pG678tgE1BDNOlYl1MKeU0bvF-w?usp=sharing)<br>
-[Notebook com implementação](https://colab.research.google.com/drive/1eyik1Sn2S7Fn-9_9CtK8urEvQnzewfCL?usp=sharing)
+[Notebook com implementação](https://colab.research.google.com/drive/1nWQqq5dz_1PURISQm4ynq4j2ZTCa-FOB?usp=sharing)
